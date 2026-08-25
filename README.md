@@ -8,3 +8,5 @@ git remote- koppling till github
 git push- skickar upp commits till github
 git pull- hämtar från github
 git branche- hanterar branches
+repository- en mapp som git sparar och håller koll på.
+ 
