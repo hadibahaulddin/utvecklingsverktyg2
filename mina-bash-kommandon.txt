@@ -1,2 +1,13 @@
-jag har forsokt lara mig anvanda olika beteckningarna sa som pwd,ls,la osv.
-
+jag har lärt mig använda olika kommandon i terminalen
+pwd- visar var jag befinner mig 
+ls-la- visar listar alla filer och mapar
+cd- byter mapar
+mkdir- skapar ny mapa
+mv- byter namn/flyttar fil
+cat- visar innehåll i en textfil 
+touch- skapar tom fil 
+git status- visar status på filer 
+git init- initierar ett nytt Git-repositori i mappar
+git add- lägger till filer för en commit 
+git commit- m sparar en version i historik
+git push- skickar upp commit till github  
